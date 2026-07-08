@@ -5,12 +5,12 @@ The purpose of this lesson is to go through how the particle-in-a-box and the fi
 
 ## Lesson Information
 
-#### Science Questions:
+#### Science Questions
 
 1. How does the particle-in-a-box (PIB) model connect to UV-vis spectroscopy?
 2. How does this connection extend to the finite well model?
 
-#### Programming Objectives:
+#### Programming Objectives
 
 1. Use a for loop to plot the computed UV-vis spectra.
 2. Overlay the computed and experimental spectra.

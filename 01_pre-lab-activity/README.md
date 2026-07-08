@@ -6,10 +6,15 @@ The purpose of this lesson is to cover if/else statements and for loops in the c
 ## Lesson Information
 
 ### Lesson Learning Outcomes
-At the end of this lesson, students will be able to...
-1. First lesson learning outcome
-2. Second lesson learning outcome
-3. Etc.
+#### Questions
+
+1. What are if/else statements?
+2. What are for loops?
+
+#### Objectives
+
+1. Describe for loops.
+2. Plot a summation of gaussian peaks using a for loop.
 
 ### Cyberinfrastructure Prerequisites
 
