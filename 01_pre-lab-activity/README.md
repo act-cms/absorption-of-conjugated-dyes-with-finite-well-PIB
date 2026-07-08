@@ -31,15 +31,7 @@ following content topics:
 
 ### References
 
-* [Article](https://doi.org/doi:10.1021/bk-2025-1515.ch017)
-* Patel, P. Modernizing Physical Chemistry: Integrating Computational Chemistry, the Finite Well, and Python Data Visualization in the Particle-in-a-Box Experiment. In *Engaging Students in Physical Chemistry, Volume 2; ACS Symposium Series*; American Chemical Society, **2025**; Vol. 1515, pp 261–278.
-
-### References
-
-Portions of this lesson were adapted from: 
-* Lesson citation or reference, with associated link
-* [OpenStax Chemistry 2e](https://openstax.org/details/books/chemistry-2e)
-* Etc.
+* Patel, P. Modernizing Physical Chemistry: Integrating Computational Chemistry, the Finite Well, and Python Data Visualization in the Particle-in-a-Box Experiment. In *Engaging Students in Physical Chemistry, Volume 2; ACS Symposium Series*; American Chemical Society, **2025**; Vol. 1515, pp 261–278. [Link to Article](https://doi.org/doi:10.1021/bk-2025-1515.ch017)
 
 ## Lesson Versions & Intended Modalities
 
