@@ -1,24 +1,19 @@
-Lesson/Module Title
+Absorption of Conjugated Dyes using the Finite Well Particle-in-a-Box Model
 ===================
 
-Write a short description (2-3 sentences) of your lesson here. The `main`
-branch of your lesson repository is the most public-facing branch, which will
-primarily be accessed by prospective adopting instructors as they explore the
-open educational resources (OER) available on the ACT-CMS portal. Minimally,
-you should address the lesson's purpose, intended audience (course & student
-level), and time required.
+Use the particle-in-a-finite-well model to explore the absorption of conjugated dyes with UV-vis spectroscopy.
+Explore how results from molecular orbital theory can be used to inform parameters for the finite well to compute a simulated wavelength of max absorbance.
+This module is designed for an upper-level Physical Chemistry lab covering quantum theory (particle-in-a-box)
+
 
 ## Lesson/Module Contents
 
-Provide a brief overview of the structure of your module or lesson as an
-enumerated list below:
-
-1. Title of first lesson in module
-    * Directory: `01_first-lesson`
-    * Description: Extremely brief description of lesson content
-    * Time: 2-3 hours
-2. Title of second lesson in module (if present)
-    * Directory: `02_second-lesson`
-    * Description: Extremely brief description of lesson content
+1. Introduction
+    * Directory: `01_pre-lab-activity`
+    * Description: If/else statements and for loops in the context of broadening spectra
+    * Time: 0.5-1 hour
+2. Absorption of Conjugated Dyes using the Finite Well
+    * Directory: `02_absorption-conjugated-dyes-activity`
+    * Description: Connecting the particle-in-a-box and the finite well model to UV-vis spectroscopic peaks
     * Time: 2-3 hours
 
